@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{71ABEAB0-5CE2-421A-A52F-64DC6558E9D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrapeConsoleApp", "ScrapeConsoleApp\ScrapeConsoleApp.csproj", "{6D9206C1-8120-4B4D-A0E0-8C15A2443E6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrendyolScraping", "TrendyolScraping\TrendyolScraping.csproj", "{C8778385-7F96-49A6-8802-ECCA96B75F3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D9206C1-8120-4B4D-A0E0-8C15A2443E6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D9206C1-8120-4B4D-A0E0-8C15A2443E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D9206C1-8120-4B4D-A0E0-8C15A2443E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D9206C1-8120-4B4D-A0E0-8C15A2443E6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8778385-7F96-49A6-8802-ECCA96B75F3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8778385-7F96-49A6-8802-ECCA96B75F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8778385-7F96-49A6-8802-ECCA96B75F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8778385-7F96-49A6-8802-ECCA96B75F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C8778385-7F96-49A6-8802-ECCA96B75F3A} = {71ABEAB0-5CE2-421A-A52F-64DC6558E9D2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E02AEC1-F897-4B05-8D24-F45FA0FA641A}
+	EndGlobalSection
+EndGlobal
